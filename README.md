@@ -1,31 +1,31 @@
 # Content Go (Golang)
 This repository was created to help reinforce content related to the Go programming language (Golang).
 ## Topics:
-- 01_variaveis.go
-- 02_estruturas_de_controle.go
-- 03_funcoes_e_metodos.go
-- 04_organização_de_codigo_em_pacote.go
-- 05_modulos_e_dependencias.go
-- 06_manipulacao_de_dados_1.go
-- 07_manipulacao_de_dados_2.go
-- 08_operacoes_de_entrada_e_saida.go
-- 09_concorrencia_goroutines_e_ channels_1.go
-- 10_concorrencia_goroutines_e_ channels_2.go
-- 11_tratamento_erros.go
-- 12_tratamento_erros_panic_recover.go
-- 13_testes_unitarios.go
-- 14_teste_de_integracao.go
-- 15_medir_cobertura_de_teste.go
-- 16_tipos_de_interfaces.go
-- 17_padroes_de_projeto.go
-- 18_ferramentas_de_testes.go
-- 19_alocacao_de_memoria.go
-- 20_perfis_de_cpu_e_memoria.go
-- 21_otimizacao_de_codigo.go
-- 22_frameworks.go
-- 23_integração_com_banco.go
-- 24_exemplo_grpc.go
-- 25_microsservicos.go
-- 26_prevencao_de_ataque_sql_e_xss.go
-- 27_boas_praticas_de_seguranca.go
-- 28_api_restful.go
+- **Variables:** 01_variaveis.go
+- **Control structures:** 02_estruturas_de_controle.go
+- **Functions and methods:** 03_funcoes_e_metodos.go
+- **Code organization into packages:** 04_organização_de_codigo_em_pacote.go
+- **Modules and dependencies:** 05_modulos_e_dependencias.go
+- **Data manipulation 1:** 06_manipulacao_de_dados_1.go
+- **Data manipulation 2:** 07_manipulacao_de_dados_2.go
+- **Input and output operations:** 08_operacoes_de_entrada_e_saida.go
+- **Concurrency with goroutines and channels 1:** 09_concorrencia_goroutines_e_ channels_1.go
+- **Concurrency with goroutines and channels 2:** 10_concorrencia_goroutines_e_ channels_2.go
+- **Error handling:** 11_tratamento_erros.go: 
+- **Error handling panic recover:** 12_tratamento_erros_panic_recover.go
+- **Unit testing:** 13_testes_unitarios.go
+- **Integration testing:** 14_teste_de_integracao.go
+- **Measuring test coverage:** 15_medir_cobertura_de_teste.go
+- **Interface types:** 16_tipos_de_interfaces.go
+- **Design patterns:** 17_padroes_de_projeto.go
+- **Testing tools:** 18_ferramentas_de_testes.go
+- **Memory allocation:** 19_alocacao_de_memoria.go
+- **CPU and memory profiling:** 20_perfis_de_cpu_e_memoria.go
+- **Code optimization**: 21_otimizacao_de_codigo.go
+- **Frameworks:** 22_frameworks.go
+- **Database integration:** 23_integração_com_banco.go
+- **GRPC example:** 24_exemplo_grpc.go
+- **Microservices:** 25_microsservicos.go
+- **Preventing SQL injection and XSS attacks:** 26_prevencao_de_ataque_sql_e_xss.go
+- **Security best practices:** 27_boas_praticas_de_seguranca.go
+- **RESTful API:** 28_api_restful.go
