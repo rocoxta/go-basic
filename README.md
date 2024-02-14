@@ -1,1 +1,31 @@
-# go-basic
+# Content Go (Golang)
+This repository was created to help reinforce content related to the Go programming language (Golang).
+## Topics:
+- 01_variaveis.go
+- 02_estruturas_de_controle.go
+- 03_funcoes_e_metodos.go
+- 04_organização_de_codigo_em_pacote.go
+- 05_modulos_e_dependencias.go
+- 06_manipulacao_de_dados_1.go
+- 07_manipulacao_de_dados_2.go
+- 08_operacoes_de_entrada_e_saida.go
+- 09_concorrencia_goroutines_e_ channels_1.go
+- 10_concorrencia_goroutines_e_ channels_2.go
+- 11_tratamento_erros.go
+- 12_tratamento_erros_panic_recover.go
+- 13_testes_unitarios.go
+- 14_teste_de_integracao.go
+- 15_medir_cobertura_de_teste.go
+- 16_tipos_de_interfaces.go
+- 17_padroes_de_projeto.go
+- 18_ferramentas_de_testes.go
+- 19_alocacao_de_memoria.go
+- 20_perfis_de_cpu_e_memoria.go
+- 21_otimizacao_de_codigo.go
+- 22_frameworks.go
+- 23_integração_com_banco.go
+- 24_exemplo_grpc.go
+- 25_microsservicos.go
+- 26_prevencao_de_ataque_sql_e_xss.go
+- 27_boas_praticas_de_seguranca.go
+- 28_api_restful.go
